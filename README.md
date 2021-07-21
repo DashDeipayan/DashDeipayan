@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DashDeipayan or better call me Dash
+- 👋 Hi, I’m @DashDeipayan or just Dash
 - 👀 I’m interested in Software Development in general
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that include Machine Learning and web
