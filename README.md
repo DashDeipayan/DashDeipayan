@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that include Machine Learning and web
 - 📫 How to reach me? Simple, 👉🏻[LinkedIn](https://www.linkedin.com/in/dash-deipayan/)
-- 🔖 Take a look at my [Resume](https://www.icloud.com/iclouddrive/0H9s_aW9WGUsJ0Zp84Q30O2dg#Resume_DeipayanDash_main)⭐️🌟
+- 🔖 Take a look at my [Resume](https://www.icloud.com/iclouddrive/0JrYsL3qRLJtGRYYWuQfqz1xw#Resume_DeipayanDash_main)⭐️🌟
 
 <!---
 DashDeipayan/DashDeipayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
